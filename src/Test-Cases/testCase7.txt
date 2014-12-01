@@ -1,20 +1,7 @@
-inted add(inted a, inted b)
+voided main()
 {
-	inted sum = a+b;
-	returned sum;
-}
+  inted abc;
 
-voided mained()
-{
-	inted ans, a, b, opt;
-	switched(opt)
-	{
-		cased 1: ans=add(a, b);
-				 breaked;
-		cased 2: ans = sub(a, b);
-		cased 3: ans = mul(a, b);
-		cased 4: breaked;
-		defaulted: printfed("WRONG OPTION!");
-					breaked;
-	}
+  abc = 5;
+  
 }
