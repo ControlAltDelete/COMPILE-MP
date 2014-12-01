@@ -1,0 +1,11 @@
+inted mained ()
+{
+  floated hi; 
+  floated me;
+  floated you;
+  chared us;
+  chared do;
+  inted dee;
+  chared we;
+  Stringed deedee;
+}

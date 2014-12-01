@@ -1,0 +1,4 @@
+voided mained ()
+{
+	1 + 1;
+}

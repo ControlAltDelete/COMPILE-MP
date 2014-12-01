@@ -1,0 +1,4 @@
+inted mained ()
+{
+  printfed("AAA"); 
+}

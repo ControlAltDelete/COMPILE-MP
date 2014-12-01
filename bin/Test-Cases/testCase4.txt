@@ -1,0 +1,4 @@
+inted mained ()
+{
+  inted diff = a + n;
+}
